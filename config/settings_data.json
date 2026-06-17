@@ -1,9 +1,23 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
     "storefront_hostname": "nomaintenance.us",
     "integrate_with_customer_accounts": true,
-    "content_for_index": [
-
-    ]
+    "content_for_index": [],
+    "blocks": {
+      "534977871531306417": {
+        "type": "shopify://apps/tnc-terms-checkbox/blocks/app-embed/2b45c8fb-5ee2-4392-8a72-b663da1d38ad",
+        "disabled": false,
+        "settings": {}
+      }
+    }
   }
 }
